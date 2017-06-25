@@ -15,13 +15,13 @@ Angular 4 | Framework MVVM y MVC para desarrollo web y movil. Más información 
 * Se requiere **NodeJS** instalado. Lo puedes descargar de <a href="https://nodejs.org" target="_blank">Aquí</a>
 * Despues de instalar NodeJS, necesitamos **Ionic Framework**. Lo instalas asi `npm install -g ionic`
 
-#Pasos para ejecutar la aplicación web
+# Pasos para ejecutar la aplicación web
 Para ejecutar la WebApp, se deben seguir unos pequeños pasos.
 * Debes clonar este repositorio.
 * Luego de clonarlo, debes de ir a la raiz del proyecto y correr el comando `npm install` para instalar todas las dependencias
 * Cuando tengas instaladas las dependencias, corres el comando `ionic serve` para compilar los .ts y ejecutar el servidor.
 
-#Funcionamiento General de la aplicación web
+# Funcionamiento General de la aplicación web
 
 Te voy a explicar como esta todo el funcionamiento de la webapp
 
