@@ -42,7 +42,6 @@ Archivo                           | Explicación
 `home.html` | Es el archivo de enmarcado donde se maquetea toda la página.
 `home.service.ts` | Es el archivo que declara y expone el servicio que consume la fuente de datos por medio de RESTFull.
 `home.scss` | Es el archivo sass que contiene los estilos del componente.
-`./src/pages` | Es el directorio donde se encuentran todas las paginas que tiene la webapp.
 
 la pagina tiene 5 variables esenciales para el control del sorteo, estan es el archivo **home.ts** y son las siguientes
 
