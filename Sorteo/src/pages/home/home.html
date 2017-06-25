@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card>
+    <ion-card-header>
+      Tiempo restante
+    </ion-card-header>
+    <ion-card-content>
+      <ion-icon name="md-alarm"></ion-icon> {{time}} Sec.
+    </ion-card-content>
+  </ion-card>
+  <ion-card>
+    <ion-card-header>
+      Ganador
+    </ion-card-header>
+    <ion-card-content>
+      <ion-icon name="md-trophy"></ion-icon> {{ganador.name}}
+    </ion-card-content>
+  </ion-card>
+
+  <button ion-button (click)="Run()">Empezar</button>
+</ion-content>
