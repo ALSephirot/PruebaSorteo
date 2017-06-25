@@ -5,7 +5,6 @@ Este es un repositorio para presentar la prueba tecnica para la empresa BTi
 # Tecnologias
 Para realizar esta prueba se usaron las siguientes tecnologias
 
-* ## Xamarin Forms Project Structure (Cross-platform)
 Framework                           | Descripción
 --------------- | -------------
 Ionic 2    | Framework grafico con material design integrado. Tambien se usa para desarrollo movil. Más información <a href="https://ionicframework.com" target="_blank">Aquí</a>
